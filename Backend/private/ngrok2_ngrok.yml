@@ -1,0 +1,6 @@
+authtoken: 1drgm9UgAk0zxslQqLXVsHF78x6_3qcuo5Zpcmm6MBKecvndy
+socks5_proxy: "socks5://127.0.0.1:9050"
+tunnels:
+  tor_server:
+    proto: http
+    addr: 80
